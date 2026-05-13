@@ -165,8 +165,8 @@ namespace TigerSoccerClub
                             Console.WriteLine("Name    " + " Type   " + " Jersey   " + " Total ");
                             Console.WriteLine(Name + " " + Registration + " "+ " " + " " + Jersey + " " + " " + " " + total);
                             Console.WriteLine("\n");
-
-                    }
+                    Console.WriteLine("Thank you for using Tiger Soccer Club System");
+                }
 
 
                 }
